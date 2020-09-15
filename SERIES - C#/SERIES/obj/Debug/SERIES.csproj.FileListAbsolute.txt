@@ -1,0 +1,54 @@
+C:\Users\EDUARDO\Desktop\SERIES\SERIES\bin\Debug\SERIES.exe.config
+C:\Users\EDUARDO\Desktop\SERIES\SERIES\bin\Debug\SERIES.exe
+C:\Users\EDUARDO\Desktop\SERIES\SERIES\bin\Debug\SERIES.pdb
+C:\Users\EDUARDO\Desktop\SERIES\SERIES\obj\Debug\SERIES.csprojResolveAssemblyReference.cache
+C:\Users\EDUARDO\Desktop\SERIES\SERIES\obj\Debug\SERIES.Form1.resources
+C:\Users\EDUARDO\Desktop\SERIES\SERIES\obj\Debug\SERIES.Properties.Resources.resources
+C:\Users\EDUARDO\Desktop\SERIES\SERIES\obj\Debug\SERIES.csproj.GenerateResource.Cache
+C:\Users\EDUARDO\Desktop\SERIES\SERIES\obj\Debug\SERIES.exe
+C:\Users\EDUARDO\Desktop\SERIES\SERIES\obj\Debug\SERIES.pdb
+C:\SERIES\SERIES\bin\Debug\SERIES.exe.config
+C:\SERIES\SERIES\obj\Debug\SERIES.exe
+C:\SERIES\SERIES\obj\Debug\SERIES.pdb
+C:\SERIES\SERIES\obj\Debug\SERIES.csprojResolveAssemblyReference.cache
+C:\SERIES\SERIES\obj\Debug\SERIES.Form1.resources
+C:\SERIES\SERIES\obj\Debug\SERIES.Properties.Resources.resources
+C:\SERIES\SERIES\obj\Debug\SERIES.csproj.GenerateResource.Cache
+C:\SERIES\SERIES\bin\Debug\SERIES.exe
+C:\SERIES\SERIES\bin\Debug\SERIES.pdb
+C:\SERIES\SERIES\obj\Debug\SERIES.Visao.login.resources
+C:\SERIES\SERIES\obj\Debug\SERIES.Visao.frmCanal.resources
+C:\SERIES\SERIES\obj\Debug\SERIES.Visao.frmSerie.resources
+C:\SERIES\SERIES\obj\Debug\SERIES.Visao.frmTiposerie.resources
+C:\Users\ADM\Desktop\SERIES\SERIES\SERIES\bin\Debug\SERIES.exe.config
+C:\Users\ADM\Desktop\SERIES\SERIES\SERIES\obj\Debug\SERIES.exe
+C:\Users\ADM\Desktop\SERIES\SERIES\SERIES\obj\Debug\SERIES.pdb
+C:\Program Files (x86)\Microsoft SQL Server\SERIES\SERIES\SERIES\bin\Debug\SERIES.exe.config
+C:\Program Files (x86)\Microsoft SQL Server\SERIES\SERIES\SERIES\obj\Debug\SERIES.exe
+C:\Program Files (x86)\Microsoft SQL Server\SERIES\SERIES\SERIES\obj\Debug\SERIES.pdb
+C:\Program Files (x86)\Microsoft SQL Server\SERIES\SERIES\SERIES\bin\Debug\SERIES.exe
+C:\Program Files (x86)\Microsoft SQL Server\SERIES\SERIES\SERIES\bin\Debug\SERIES.pdb
+C:\Program Files (x86)\Microsoft SQL Server\SERIES\SERIES\SERIES\obj\Debug\SERIES.csprojResolveAssemblyReference.cache
+C:\Program Files (x86)\Microsoft SQL Server\SERIES\SERIES\SERIES\obj\Debug\SERIES.Visao.frmCanal.resources
+C:\Program Files (x86)\Microsoft SQL Server\SERIES\SERIES\SERIES\obj\Debug\SERIES.Visao.frmSerie.resources
+C:\Program Files (x86)\Microsoft SQL Server\SERIES\SERIES\SERIES\obj\Debug\SERIES.Visao.frmTiposerie.resources
+C:\Program Files (x86)\Microsoft SQL Server\SERIES\SERIES\SERIES\obj\Debug\SERIES.Visao.login.resources
+C:\Program Files (x86)\Microsoft SQL Server\SERIES\SERIES\SERIES\obj\Debug\SERIES.Form1.resources
+C:\Program Files (x86)\Microsoft SQL Server\SERIES\SERIES\SERIES\obj\Debug\SERIES.Properties.Resources.resources
+C:\Program Files (x86)\Microsoft SQL Server\SERIES\SERIES\SERIES\obj\Debug\SERIES.csproj.GenerateResource.Cache
+C:\Users\ADM\Desktop\SERIES\SERIES\bin\Debug\SERIES.exe.config
+C:\Users\ADM\Desktop\SERIES\SERIES\obj\Debug\SERIES.exe
+C:\Users\ADM\Desktop\SERIES\SERIES\obj\Debug\SERIES.pdb
+C:\Users\ADM\Desktop\SERIES\SERIES\bin\Debug\SERIES.exe
+C:\Users\ADM\Desktop\SERIES\SERIES\bin\Debug\SERIES.pdb
+C:\Users\ADM\Desktop\SERIES\SERIES\obj\Debug\SERIES.csprojResolveAssemblyReference.cache
+C:\Users\ADM\Desktop\SERIES\SERIES\obj\Debug\SERIES.Visao.frmCanal.resources
+C:\Users\ADM\Desktop\SERIES\SERIES\obj\Debug\SERIES.Visao.frmSerie.resources
+C:\Users\ADM\Desktop\SERIES\SERIES\obj\Debug\SERIES.Visao.frmTiposerie.resources
+C:\Users\ADM\Desktop\SERIES\SERIES\obj\Debug\SERIES.Visao.login.resources
+C:\Users\ADM\Desktop\SERIES\SERIES\obj\Debug\SERIES.Form1.resources
+C:\Users\ADM\Desktop\SERIES\SERIES\obj\Debug\SERIES.Properties.Resources.resources
+C:\Users\ADM\Desktop\SERIES\SERIES\obj\Debug\SERIES.csproj.GenerateResource.Cache
+C:\Users\Aluno(a)\Downloads\SERIES\SERIES\bin\Debug\SERIES.exe.config
+C:\Users\Aluno(a)\Downloads\SERIES\SERIES\obj\Debug\SERIES.exe
+C:\Users\Aluno(a)\Downloads\SERIES\SERIES\obj\Debug\SERIES.pdb
